@@ -6,3 +6,4 @@ kolejna linia
 =======
 inna linia
 >>>>>>> parent of b1b684e (kolejna zmiana)
+to jest zmiana w galezi NOWA_G
