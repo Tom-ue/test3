@@ -1,4 +1,8 @@
 to jest pierwsza linia
+<<<<<<< HEAD
 inna linia
 jeszcze inna linia
 kolejna linia
+=======
+inna linia
+>>>>>>> parent of b1b684e (kolejna zmiana)
